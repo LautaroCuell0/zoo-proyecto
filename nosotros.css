@@ -1,0 +1,319 @@
+
+.donacion{
+    background: url(./img/banner-jirafa.jpg);
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    height: 200px;
+}
+
+.donacion h1 {
+    font-family: 'Martian Mono', monospace;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Playfair Display', serif;
+    color: #6EA07C;
+}
+
+.donacion-button {
+    margin-top: 20px;
+    width: 100px;
+    height: 40px;
+}
+
+.nosotros{
+    background-color: #6EA07C;
+}
+
+.h1-nosotros{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+.h1-nosotros h1 {
+    font-family: 'Martian Mono', monospace;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Playfair Display', serif;
+    color: #215732;
+}
+
+.p-nosotros{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 30px;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.p-nosotros p{
+    width: 500px;
+    font-family: 'Martian Mono', monospace;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Playfair Display', serif;
+    color: #215732;
+}
+
+.p-nosotros img {
+    width: 500px;
+    border-radius: 30px;
+    border: 10px solid #215732 ;
+    border-radius: 30px;
+    box-shadow: 5px 5px 4px black;
+}
+
+.nosotros-button {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+.nosotros-button button{
+    width: 100px;
+    height: 40px;
+}
+
+/* -------- */
+
+.educar{
+    background-color: #6EA07C;
+}
+
+.mision{
+    background-color: #6EA07C;
+}
+
+.h1-mision{
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}
+
+.h1-mision h1 {
+    font-family: 'Martian Mono', monospace;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Playfair Display', serif;
+    color: #215732;
+}
+
+
+.p-mision{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 30px;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.p-mision p{
+    width: 500px;
+    font-family: 'Martian Mono', monospace;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Playfair Display', serif;
+    color: #215732;
+}
+
+.p-mision img {
+    width: 500px;
+    border-radius: 30px;
+    border: 10px solid #215732 ;
+    border-radius: 30px;
+    box-shadow: 5px 5px 4px black;
+}
+
+/* -------- */
+
+.h1-educar{
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}
+
+.h1-educar h1 {
+    font-family: 'Martian Mono', monospace;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Playfair Display', serif;
+    color: #215732;
+}
+
+
+.p-educar{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 30px;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.p-educar p{
+    width: 500px;
+    font-family: 'Martian Mono', monospace;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Playfair Display', serif;
+    color: #215732;
+}
+
+.p-educar img {
+    width: 500px;
+    border-radius: 30px;
+    border: 10px solid #215732 ;
+    border-radius: 30px;
+    box-shadow: 5px 5px 4px black;
+}
+
+
+/* ----- */
+
+
+.form{
+    background-color: #6EA07C;
+}
+
+.h1-formulario{
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}
+
+.h1-formulario h1 {
+    font-family: 'Martian Mono', monospace;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Playfair Display', serif;
+    color: #215732;
+}
+
+.formulario{
+    display: flex;
+    justify-content: center;
+    border-radius: 30px;
+}
+
+.formulario label{
+    font-family: 'Martian Mono', monospace;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Playfair Display', serif;
+    color: #215732;
+}
+
+.formulario input{
+    width: 250px;
+    border-radius: 30px;
+    height: 25px;
+}
+
+.formulario textarea{
+    border-radius: 30px;
+}
+
+.formulario button{
+    width: 100px;
+    height: 30px;
+}
+
+.label-input-1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.label-input-2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.button-formulario {
+ display: flex;
+ justify-content: center;
+ margin-bottom: 30px;
+}
+
+
+/* --------- */
+
+
+@media screen and (max-width: 665px) {
+    .cover-footer {
+        display: flex;
+        flex-direction: column;
+    }
+
+    footer{
+        height: 320px;
+    }
+ }
+
+ @media screen and (max-width: 665px) {
+    
+    .nosotros img {
+        width: 380px;
+    }
+
+    .p-nosotros p {
+        width: 350px;
+    }
+
+    .mision img {
+        width: 380px;
+    }
+
+    .p-mision p {
+        width: 350px;
+    }
+
+    .educar img {
+        width: 380px;
+    }
+
+    .p-educar p {
+        width: 350px;
+    }
+ }
+
+
+ @media screen and (max-width: 665px) {
+
+     .cover-footer img {
+        width: 300px;
+     }
+
+     .nosotros img {
+        width: 330px;
+    }
+
+    .p-nosotros p {
+        width: 330px;
+    }
+
+    .mision img {
+        width: 330px;
+    }
+
+    .p-mision p {
+        width: 330px;
+    }
+
+    .educar img {
+        width: 330px;
+    }
+
+    .p-educar p {
+        width: 330px;
+    }
+
+ }

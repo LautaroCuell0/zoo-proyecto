@@ -1,0 +1,415 @@
+.banner-merch{
+    background: url(./img/polar-3.jfif);
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 90px;
+}
+
+.h1-banner-merch h1{
+    font-family: 'Martian Mono', monospace;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Playfair Display', serif;
+    color: #6EA07C;
+}
+
+.h1-banner-merch{
+    width: 150px;
+    margin-bottom: 20px;
+}
+
+.button-merch button{
+    width: 100px;
+    height: 30px;
+    font-family: 'Martian Mono', monospace;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Playfair Display', serif;
+}
+
+/* ......... */
+.productos{
+    background-color: #6EA07C;
+    padding: 30px;
+}
+
+.merch{
+    flex-wrap: wrap;
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    justify-content: center;
+}
+
+.remera-1{
+    border-radius: 30px;
+    background-color: #215732;
+    width: 300px;
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.remera-1 img{
+    border-radius: 30px;
+    width: 250px;
+    margin-bottom: 20px;
+}
+
+.button-remera-1 button{
+    color: #215732;
+    background-color: #6EA07C;
+    width: 120px;
+    height: 30px;
+    font-family: 'Martian Mono', monospace;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Playfair Display', serif;
+}
+
+
+.remera-2{
+    border-radius: 30px;
+    background-color: #215732;
+    width: 300px;
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.remera-2 img{
+    border-radius: 30px;
+    width: 250px;
+    margin-bottom: 20px;
+}
+
+.button-remera-2 button{
+    color: #215732;
+    background-color: #6EA07C;
+    width: 120px;
+    height: 30px;
+    font-family: 'Martian Mono', monospace;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Playfair Display', serif;
+}
+
+.remera-3{
+    border-radius: 30px;
+    background-color: #215732;
+    width: 300px;
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.remera-3 img{
+    border-radius: 30px;
+    width: 250px;
+    margin-bottom: 20px;
+}
+
+.button-remera-3 button{
+    color: #215732;
+    background-color: #6EA07C;
+    width: 120px;
+    height: 30px;
+    font-family: 'Martian Mono', monospace;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Playfair Display', serif;
+}
+
+.remera-4{
+    border-radius: 30px;
+    background-color: #215732;
+    width: 300px;
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.remera-4 img{
+    border-radius: 30px;
+    width: 250px;
+    margin-bottom: 20px;
+}
+
+.button-remera-4 button{
+    color: #215732;
+    background-color: #6EA07C;
+    width: 120px;
+    height: 30px;
+    font-family: 'Martian Mono', monospace;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Playfair Display', serif;
+}
+
+.remera-5{
+    border-radius: 30px;
+    background-color: #215732;
+    width: 300px;
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.remera-5 img{
+    border-radius: 30px;
+    width: 250px;
+    margin-bottom: 20px;
+}
+
+.button-remera-5 button{
+    color: #215732;
+    background-color: #6EA07C;
+    width: 120px;
+    height: 30px;
+    font-family: 'Martian Mono', monospace;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Playfair Display', serif;
+}
+
+.remera-6{
+    border-radius: 30px;
+    background-color: #215732;
+    width: 300px;
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.remera-6 img{
+    border-radius: 30px;
+    width: 250px;
+    margin-bottom: 20px;
+}
+
+.button-remera-6 button{
+    color: #215732;
+    background-color: #6EA07C;
+    width: 120px;
+    height: 30px;
+    font-family: 'Martian Mono', monospace;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Playfair Display', serif;
+}
+
+
+/* ......... */
+
+.kids-merch{
+    background-color: #6EA07C;
+    
+}
+
+.productos-niños{
+    background-color: #6EA07C;
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}
+
+.productos-niños h1 {
+    font-family: 'Martian Mono', monospace;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Playfair Display', serif;
+    color: #215732;
+}
+
+.kids-merch{
+    flex-wrap: wrap;
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    justify-content: center;
+    padding: 30px;
+}
+
+.kids-1{
+    border-radius: 30px;
+    background-color: #215732;
+    width: 300px;
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.kids-1 img{
+    border-radius: 30px;
+    width: 250px;
+    margin-bottom: 20px;
+}
+
+.button-kids-1 button{
+    color: #215732;
+    background-color: #6EA07C;
+    width: 120px;
+    height: 30px;
+    font-family: 'Martian Mono', monospace;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Playfair Display', serif;
+}
+
+.kids-2{
+    border-radius: 30px;
+    background-color: #215732;
+    width: 300px;
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.kids-2 img{
+    border-radius: 30px;
+    width: 250px;
+    margin-bottom: 20px;
+}
+
+.button-kids-2 button{
+    color: #215732;
+    background-color: #6EA07C;
+    width: 120px;
+    height: 30px;
+    font-family: 'Martian Mono', monospace;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Playfair Display', serif;
+}
+
+.kids-3{
+    border-radius: 30px;
+    background-color: #215732;
+    width: 300px;
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.kids-3 img{
+    border-radius: 30px;
+    width: 250px;
+    margin-bottom: 20px;
+}
+
+.button-kids-3 button{
+    color: #215732;
+    background-color: #6EA07C;
+    width: 120px;
+    height: 30px;
+    font-family: 'Martian Mono', monospace;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Playfair Display', serif;
+}
+
+.kids-4{
+    border-radius: 30px;
+    background-color: #215732;
+    width: 300px;
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.kids-4 img{
+    border-radius: 30px;
+    width: 250px;
+    margin-bottom: 20px;
+}
+
+.button-kids-4 button{
+    color: #215732;
+    background-color: #6EA07C;
+    width: 120px;
+    height: 30px;
+    font-family: 'Martian Mono', monospace;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Playfair Display', serif;
+}
+
+.kids-5{
+    border-radius: 30px;
+    background-color: #215732;
+    width: 300px;
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.kids-5 img{
+    border-radius: 30px;
+    width: 250px;
+    margin-bottom: 20px;
+}
+
+.button-kids-5 button{
+    color: #215732;
+    background-color: #6EA07C;
+    width: 120px;
+    height: 30px;
+    font-family: 'Martian Mono', monospace;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Playfair Display', serif;
+}
+
+.kids-6{
+    border-radius: 30px;
+    background-color: #215732;
+    width: 300px;
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.kids-6 img{
+    border-radius: 30px;
+    width: 250px;
+    margin-bottom: 20px;
+}
+
+.button-kids-6 button{
+    color: #215732;
+    background-color: #6EA07C;
+    width: 120px;
+    height: 30px;
+    font-family: 'Martian Mono', monospace;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Playfair Display', serif;
+}
+
+
+/* ------ */
+
+@media screen and (max-width: 665px) {
+    .cover-footer{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .cover-footer img {
+        width: 300px;
+    }
+ }

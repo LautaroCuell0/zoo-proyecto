@@ -1,0 +1,538 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.logo{
+    display: flex;
+    justify-content: center;
+}
+.logo img{
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+    margin-bottom: 30px;
+}
+.inicio{
+    background-color: 
+    #6EA07C;
+    padding: 10px;
+}
+
+
+.nav ul{
+    color: #6EA07C;
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    justify-content: center;
+    font-family: 'Martian Mono', monospace;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Playfair Display', serif;
+}
+
+.li-1{
+    background-color: #215732;
+    border-radius: 30px;
+    width: 80px;
+    height: 30px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.navbar a:visited {
+    color: #6EA07C;
+  }
+
+
+
+.li-2{
+    background-color: #215732;
+    border-radius: 30px;
+    width: 80px;
+    height: 30px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.li-3{
+    background-color: #215732;
+    border-radius: 30px;
+    width: 80px;
+    height: 30px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.presentacion{
+    padding: 30px;
+    background-color: #6EA07C;
+}
+
+.cover-img-h1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 120px;
+    align-items: center;
+}
+
+.h1{
+    display: flex;
+    width: 70px;
+    height: 200px;
+    flex-direction: column;
+}
+.TITULO{
+    font-family: 'Martian Mono', monospace;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Mukta', sans-serif;
+font-family: 'Playfair Display', serif;
+    color: #215732;
+    margin-bottom: 10px;
+}
+
+button{
+    font-family: 'Martian Mono', monospace;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Playfair Display', serif;
+    background-color: #215732;
+    color: #6EA07C;
+    border-radius: 30px;
+    border: none;
+}
+.img-presentacion{
+    width: 400px;
+    border: 10px solid #215732 ;
+    border-radius: 30px;
+    box-shadow: 5px 5px 4px black;
+}
+
+
+/* ------- */
+
+.clases-especies{
+    background-color: #6EA07C;
+    padding: 30px;
+   
+}
+
+.cover-especies{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+     flex-wrap: wrap;
+}
+
+
+.pajaro img{
+    width: 150px;
+    height: 150px;
+    border-radius: 99px;
+}
+
+
+.p-pajaro p {
+    margin-top: 20px;
+    border-radius: 30px;
+    padding: 10px;
+    color: #6EA07C;
+    background-color: #215732;
+    width: 200px;
+    font-family: 'Martian Mono', monospace;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Playfair Display', serif;
+}
+
+.felino img{
+    width: 150px;
+    height: 150px;
+    border-radius: 99px;
+}
+
+.p-felino p {
+    margin-top: 20px;
+    border-radius: 30px;
+    padding: 10px;
+    color: #6EA07C;
+    background-color: #215732;
+    width: 200px;
+    font-family: 'Martian Mono', monospace;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Playfair Display', serif;
+}
+
+.peces img{
+    width: 150px;
+    height: 150px;
+    border-radius: 99px;
+}
+
+.p-peces p {
+    margin-top: 20px;
+    border-radius: 30px;
+    padding: 10px;
+    color: #6EA07C;
+    background-color: #215732;
+    width: 200px;
+    font-family: 'Martian Mono', monospace;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Playfair Display', serif;
+}
+
+/* ........ */
+
+.banner-tickets{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.banner-tickets {
+    background: url(./img/banner.png);
+    height: 300px;
+}
+
+.banner-tickets h2 {
+    font-family: 'Martian Mono', monospace;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Playfair Display', serif;
+    color: white;
+    margin-bottom: 20px;
+}
+
+.button-tickets{
+    padding: 10px;
+    width: 140px;
+    height: 60px;
+}
+
+/* ------ */
+.tickets{
+    background-color: #6EA07C;
+}
+
+.tiers-tickets{
+    flex-wrap: wrap;
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+.pase-1 h2{
+    font-family: 'Martian Mono', monospace;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Playfair Display', serif;
+    color: #215732;
+}
+
+.pase-1 p {
+    color: #215732;
+    margin-top: 30px;
+    width: 300px;
+    font-family: 'Martian Mono', monospace;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Playfair Display', serif;
+}
+
+.ticket-pase1{
+    margin-top: 20px;
+    font-family: 'Martian Mono', monospace;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Playfair Display', serif; 
+    width: 120px;
+    height: 30px;
+}
+
+.pase-2 h2{
+    font-family: 'Martian Mono', monospace;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Playfair Display', serif;
+    color: #215732;
+}
+
+.pase-2 p {
+    color: #215732;
+    margin-top: 30px;
+    width: 300px;
+    font-family: 'Martian Mono', monospace;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Playfair Display', serif;
+}
+
+.ticket-pase1{
+    margin-top: 20px;
+    font-family: 'Martian Mono', monospace;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Playfair Display', serif; 
+    width: 120px;
+    height: 30px;
+}
+
+
+/* ......... */
+
+.titulo-mapa{
+    background-color: #6EA07C;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+.titulo-mapa h1 {
+    color: #215732;
+    font-family: 'Martian Mono', monospace;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Playfair Display', serif;  
+}
+
+
+.img-mapa {
+    display: flex;
+    justify-content: center;
+    background-color: #6EA07C;
+}
+
+.img-mapa img{
+    width: 800px;
+    height: 700px;
+    border: 10px solid #215732 ;
+    border-radius: 30px;
+    box-shadow: 5px 5px 4px black;
+}
+
+/* ..... */
+
+.h2-partes-parque{
+    padding: 20px;
+    background-color: #6EA07C;
+    display: flex;
+    justify-content: center;
+    color: #215732;
+}
+
+.h2-partes-parque h2 {
+    font-family: 'Martian Mono', monospace;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Playfair Display', serif;  
+}
+
+.cover-secciones-parque{
+    display: flex;
+    flex-direction: row;
+    background-color: #6EA07C;
+    gap: 20px;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 30px;
+}
+
+.seccion-felinos{
+    display: flex;
+    flex-direction: column;
+    background-color: #6EA07C;
+}
+
+.seccion-felinos h3 {
+    margin-bottom: 10px;
+    color: #215732;
+    font-family: 'Martian Mono', monospace;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Playfair Display', serif;  
+}
+
+.seccion-felinos img {
+    width: 300px;
+    border-radius: 30px;
+    border: 10px solid #215732 ;
+    border-radius: 30px;
+    box-shadow: 5px 5px 4px black;
+}
+
+
+.seccion-aves{
+    display: flex;
+    flex-direction: column;
+    background-color: #6EA07C;
+    
+}
+
+.seccion-aves h3 {
+    margin-bottom: 10px;
+    color: #215732;
+    font-family: 'Martian Mono', monospace;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Playfair Display', serif;  
+}
+
+.seccion-aves img {
+    height: 210px;
+    width: 300px;
+    border-radius: 30px;
+    border: 10px solid #215732 ;
+    border-radius: 30px;
+    box-shadow: 5px 5px 4px black;
+}
+
+.seccion-acuario{
+    display: flex;
+    flex-direction: column;
+    background-color: #6EA07C;
+}
+
+.seccion-acuario h3 {
+    margin-bottom: 10px;
+    color: #215732;
+    font-family: 'Martian Mono', monospace;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Playfair Display', serif;  
+}
+
+.seccion-acuario img {
+    border: 10px solid #215732 ;
+    border-radius: 30px;
+    box-shadow: 5px 5px 4px black;
+    width: 300px;
+    border-radius: 30px;
+}
+
+/* ------- */
+.localizacion{
+    background-color: #6EA07C;
+}
+
+.h1-ubicacion {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+.h1-ubicacion h1{
+    color: #215732;
+    font-family: 'Martian Mono', monospace;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Playfair Display', serif;  
+}
+
+.ubicacion{
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}
+
+.ubicacion iframe{
+    border: 10px solid #215732;
+    border-radius: 30px;
+    box-shadow: 5px 5px 4px black;
+}
+
+/* ------ */
+
+    footer{
+        padding: 30px;
+        background-color: #215732;
+        height: 200px;
+    }
+    
+    footer a:visited {
+        color: white;
+      }
+      
+    .cover-footer{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        gap: 30px;
+    }
+    .logo-footer img{
+    width: 400px;
+    }
+    
+    .redes-footer {
+       color: #6EA07C;
+       font-family: 'Martian Mono', monospace;
+       font-family: 'Montserrat', sans-serif;
+       font-family: 'Mukta', sans-serif;
+       font-family: 'Playfair Display', serif;  
+    }
+    
+    .contacto-footer p{
+        color: #6EA07C;
+        font-family: 'Martian Mono', monospace;
+        font-family: 'Montserrat', sans-serif;
+        font-family: 'Mukta', sans-serif;
+        font-family: 'Playfair Display', serif;  
+        
+    }
+    
+
+    /* -------- */
+    @media screen and (max-width: 875px) {
+        .img-mapa img {
+            width: 500px;
+            height: 500px;
+        }
+     }
+
+    @media screen and (max-width: 660px) {
+        .cover-footer {
+            display: flex;
+            flex-direction: column;
+        }
+    
+        footer{
+            height: 320px;
+        }
+
+        .cover-footer img {
+            width: 350px;
+        }
+
+        .cover-img-h1 {
+            display: flex;
+            flex-direction: column;
+        }
+     }
+
+     @media screen and (max-width: 570px) {
+        .img-mapa img {
+            width: 400px;
+            height: 400px;
+        }
+     }
+
+     @media screen and (max-width: 470px) {
+        .img-mapa img {
+            width: 350px;
+            height: 350px;
+        }
+
+        .cover-img-h1 img {
+            width: 350px;
+        }
+     }
+
+     
