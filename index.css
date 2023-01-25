@@ -79,6 +79,7 @@
     flex-direction: row;
     gap: 130px;
     justify-content: center;
+    flex-wrap: wrap;
 }
 
 .titulo-button{
@@ -695,6 +696,7 @@
         }
      }
 
+
     @media screen and (max-width: 660px) {
         .cover-footer {
             display: flex;
@@ -723,6 +725,11 @@
      }
 
      @media screen and (max-width: 470px) {
+        .cover-presentacion img {
+            width: 350px;
+            margin-bottom: 30px;
+        }
+
         .img-mapa img {
             width: 350px;
             height: 350px;
