@@ -25,7 +25,19 @@
     color: #6EA07C;
     border-color: #215732;
     box-shadow: 4px 4px 5px black;
+    border-bottom: #215732;
+    border-color: #215732;
+    border-right: #215732;
+    box-shadow: 1px 4px 30px #215732;
+    transition: transform 350ms;
 }
+
+.donacion-button:hover {
+    box-shadow: -5px 10px 1px  black;
+    transform: translate(10px, -10px);
+}
+
+
 
 .nosotros{
     background-color: #6EA07C;
@@ -83,8 +95,7 @@
     display: flex;
     justify-content: center;
     margin-top: 20px;
-    padding: 10px;
-    
+    padding: 10px;  
 }
 
 .nosotros-button button{
@@ -95,7 +106,18 @@
     box-shadow: 4px 4px 5px black;
     border-radius: 30px;
     border-color: #215732;
+    border-bottom: #215732;
+    border-color: #215732;
+    border-right: #215732;
+    box-shadow: 1px 4px 30px #215732;
+    transition: transform 350ms;
 }
+
+.nosotros-button button:hover {
+    box-shadow: -5px 10px 1px  black;
+    transform: translate(10px, -10px);
+}
+
 
 /* -------- */
 

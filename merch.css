@@ -36,9 +36,18 @@ body{
     font-family: 'Playfair Display', serif;
     border-radius: 30px;
     background-color: #215732;
-    color: #6EA07C;
+    border-bottom: #215732;
     border-color: #215732;
-    box-shadow: 4px 4px 5px black;
+    border-right: #215732;
+    margin-top: 20px;
+    color: #6EA07C;
+    box-shadow: 1px 4px 30px #215732;
+    transition: transform 350ms;
+}
+
+.button-merch button:hover {
+    box-shadow: -5px 10px 1px  black;
+    transform: translate(10px, -10px);
 }
 
 /* ......... */
@@ -76,6 +85,12 @@ body{
     transform: scale(1.10);
 }
 
+.cover-button-remera-1{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
 .button-remera-1 button{
     color: #215732;
     background-color: #6EA07C;
@@ -87,10 +102,51 @@ body{
     font-family: 'Playfair Display', serif;
     border-radius: 30px;
     border-color: #215732;
-    box-shadow: 4px 4px 5px black;
+    margin-top: 30px;
+    border-color: #215732;
+    margin-top: 30px;
+    box-shadow: 1px 4px 30px #215732;
+    transition: transform 350ms;
+    border-bottom: #215732;
+    border-color: #215732;
+    border-right: #215732;
+}
+
+.button-remera-1 button:hover {
+    box-shadow: -5px 10px 1px  black;
+    transform: translate(10px, -10px);
+}
+
+.favorito-remera-1 button{
+    border-radius: 30px;
+    color: #215732;
+    background-color: #6EA07C;
+    width: 50px;
+    height: 30px;
+    font-family: 'Martian Mono', monospace;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Playfair Display', serif;
+    border-color: #215732;
+    margin-top: 30px;
+    box-shadow: 1px 4px 30px #215732;
+    transition: transform 350ms;
+    border-bottom: #215732;
+    border-color: #215732;
+    border-right: #215732;
+}
+
+.favorito-remera-1 button:hover {
+    box-shadow: -5px 10px 1px  black;
+    transform: translate(10px, -10px);
 }
 
 
+.cover-button-remera-2{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
 .remera-2{
     border-radius: 30px;
     background-color: #215732;
@@ -112,7 +168,13 @@ body{
     transform: scale(1.10);
 }
 
+.button-remera-2{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
 .button-remera-2 button{
+    border-radius: 30px;
     color: #215732;
     background-color: #6EA07C;
     width: 120px;
@@ -121,7 +183,43 @@ body{
     font-family: 'Montserrat', sans-serif;
     font-family: 'Mukta', sans-serif;
     font-family: 'Playfair Display', serif;
-    box-shadow: 4px 4px 5px black;
+    margin-top: 30px;
+    border-color: #215732;
+    margin-top: 30px;
+    box-shadow: 1px 4px 30px #215732;
+    transition: transform 350ms;
+    border-bottom: #215732;
+    border-color: #215732;
+    border-right: #215732;
+}
+
+.button-remera-2 button:hover {
+    box-shadow: -5px 10px 1px  black;
+    transform: translate(10px, -10px);
+}
+
+.favorito-remera-2 button{
+    border-radius: 30px;
+    color: #215732;
+    background-color: #6EA07C;
+    width: 50px;
+    height: 30px;
+    font-family: 'Martian Mono', monospace;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Playfair Display', serif;
+    border-color: #215732;
+    margin-top: 30px;
+    box-shadow: 1px 4px 30px #215732;
+    transition: transform 350ms;
+    border-bottom: #215732;
+    border-color: #215732;
+    border-right: #215732;
+}
+
+.favorito-remera-2 button:hover {
+    box-shadow: -5px 10px 1px  black;
+    transform: translate(10px, -10px);
 }
 
 .remera-3{
@@ -145,6 +243,11 @@ body{
     transform: scale(1.10);
 }
 
+.cover-button-remera-3{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
 
 .button-remera-3 button{
     color: #215732;
@@ -155,7 +258,45 @@ body{
     font-family: 'Montserrat', sans-serif;
     font-family: 'Mukta', sans-serif;
     font-family: 'Playfair Display', serif;
-    box-shadow: 4px 4px 5px black;
+    border-radius: 30px;
+    border-color: #215732;
+    margin-top: 30px;
+    border-color: #215732;
+    margin-top: 30px;
+    box-shadow: 1px 4px 30px #215732;
+    transition: transform 350ms;
+    border-bottom: #215732;
+    border-color: #215732;
+    border-right: #215732;
+}
+
+.button-remera-3 button:hover {
+    box-shadow: -5px 10px 1px  black;
+    transform: translate(10px, -10px);
+}
+
+.favorito-remera-3 button{
+    border-radius: 30px;
+    color: #215732;
+    background-color: #6EA07C;
+    width: 50px;
+    height: 30px;
+    font-family: 'Martian Mono', monospace;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Playfair Display', serif;
+    border-color: #215732;
+    margin-top: 30px;
+    box-shadow: 1px 4px 30px #215732;
+    transition: transform 350ms;
+    border-bottom: #215732;
+    border-color: #215732;
+    border-right: #215732;
+}
+
+.favorito-remera-3 button:hover {
+    box-shadow: -5px 10px 1px  black;
+    transform: translate(10px, -10px);
 }
 
 .remera-4{
@@ -179,6 +320,12 @@ body{
     transform: scale(1.10);
 }
 
+.cover-button-remera-4{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
 .button-remera-4 button{
     color: #215732;
     background-color: #6EA07C;
@@ -188,7 +335,45 @@ body{
     font-family: 'Montserrat', sans-serif;
     font-family: 'Mukta', sans-serif;
     font-family: 'Playfair Display', serif;
-    box-shadow: 4px 4px 5px black;
+    border-radius: 30px;
+    border-color: #215732;
+    margin-top: 30px;
+    border-color: #215732;
+    margin-top: 30px;
+    box-shadow: 1px 4px 30px #215732;
+    transition: transform 350ms;
+    border-bottom: #215732;
+    border-color: #215732;
+    border-right: #215732;
+}
+
+.button-remera-4 button:hover {
+    box-shadow: -5px 10px 1px  black;
+    transform: translate(10px, -10px);
+}
+
+.favorito-remera-4 button{
+    border-radius: 30px;
+    color: #215732;
+    background-color: #6EA07C;
+    width: 50px;
+    height: 30px;
+    font-family: 'Martian Mono', monospace;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Playfair Display', serif;
+    border-color: #215732;
+    margin-top: 30px;
+    box-shadow: 1px 4px 30px #215732;
+    transition: transform 350ms;
+    border-bottom: #215732;
+    border-color: #215732;
+    border-right: #215732;
+}
+
+.favorito-remera-4 button:hover {
+    box-shadow: -5px 10px 1px  black;
+    transform: translate(10px, -10px);
 }
 
 .remera-5{
@@ -212,6 +397,12 @@ body{
     transform: scale(1.10);
 }
 
+.cover-button-remera-5{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
 .button-remera-5 button{
     color: #215732;
     background-color: #6EA07C;
@@ -221,7 +412,45 @@ body{
     font-family: 'Montserrat', sans-serif;
     font-family: 'Mukta', sans-serif;
     font-family: 'Playfair Display', serif;
-    box-shadow: 4px 4px 5px black;
+    border-radius: 30px;
+    border-color: #215732;
+    margin-top: 30px;
+    border-color: #215732;
+    margin-top: 30px;
+    box-shadow: 1px 4px 30px #215732;
+    transition: transform 350ms;
+    border-bottom: #215732;
+    border-color: #215732;
+    border-right: #215732;
+}
+
+.button-remera-5 button:hover {
+    box-shadow: -5px 10px 1px  black;
+    transform: translate(10px, -10px);
+}
+
+.favorito-remera-5 button{
+    border-radius: 30px;
+    color: #215732;
+    background-color: #6EA07C;
+    width: 50px;
+    height: 30px;
+    font-family: 'Martian Mono', monospace;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Playfair Display', serif;
+    border-color: #215732;
+    margin-top: 30px;
+    box-shadow: 1px 4px 30px #215732;
+    transition: transform 350ms;
+    border-bottom: #215732;
+    border-color: #215732;
+    border-right: #215732;
+}
+
+.favorito-remera-5 button:hover {
+    box-shadow: -5px 10px 1px  black;
+    transform: translate(10px, -10px);
 }
 
 .remera-6{
@@ -245,6 +474,12 @@ body{
     transform: scale(1.10);
 }
 
+.cover-button-remera-6{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
 .button-remera-6 button{
     color: #215732;
     background-color: #6EA07C;
@@ -254,7 +489,45 @@ body{
     font-family: 'Montserrat', sans-serif;
     font-family: 'Mukta', sans-serif;
     font-family: 'Playfair Display', serif;
-    box-shadow: 4px 4px 5px black;
+    border-radius: 30px;
+    border-color: #215732;
+    margin-top: 30px;
+    border-color: #215732;
+    margin-top: 30px;
+    box-shadow: 1px 4px 30px #215732;
+    transition: transform 350ms;
+    border-bottom: #215732;
+    border-color: #215732;
+    border-right: #215732;
+}
+
+.button-remera-6 button:hover {
+    box-shadow: -5px 10px 1px  black;
+    transform: translate(10px, -10px);
+}
+
+.favorito-remera-6 button{
+    border-radius: 30px;
+    color: #215732;
+    background-color: #6EA07C;
+    width: 50px;
+    height: 30px;
+    font-family: 'Martian Mono', monospace;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Playfair Display', serif;
+    border-color: #215732;
+    margin-top: 30px;
+    box-shadow: 1px 4px 30px #215732;
+    transition: transform 350ms;
+    border-bottom: #215732;
+    border-color: #215732;
+    border-right: #215732;
+}
+
+.favorito-remera-6 button:hover {
+    box-shadow: -5px 10px 1px  black;
+    transform: translate(10px, -10px);
 }
 
 
@@ -310,6 +583,12 @@ body{
     transform: scale(1.10);
 }
 
+.cover-button-kids-1{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
 .button-kids-1 button{
     color: #215732;
     background-color: #6EA07C;
@@ -319,10 +598,45 @@ body{
     font-family: 'Montserrat', sans-serif;
     font-family: 'Mukta', sans-serif;
     font-family: 'Playfair Display', serif;
-    border-color: #215732;
-    box-shadow: 4px 4px 5px black;
     border-radius: 30px;
-    box-shadow: 4px 4px 5px black;
+    border-color: #215732;
+    margin-top: 30px;
+    border-color: #215732;
+    margin-top: 30px;
+    box-shadow: 1px 4px 30px #215732;
+    transition: transform 350ms;
+    border-bottom: #215732;
+    border-color: #215732;
+    border-right: #215732;
+}
+
+.button-kids-1 button:hover {
+    box-shadow: -5px 10px 1px  black;
+    transform: translate(10px, -10px);
+}
+
+.favorito-kids-1 button{
+    border-radius: 30px;
+    color: #215732;
+    background-color: #6EA07C;
+    width: 50px;
+    height: 30px;
+    font-family: 'Martian Mono', monospace;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Playfair Display', serif;
+    border-color: #215732;
+    margin-top: 30px;
+    box-shadow: 1px 4px 30px #215732;
+    transition: transform 350ms;
+    border-bottom: #215732;
+    border-color: #215732;
+    border-right: #215732;
+}
+
+.favorito-kids-1 button:hover {
+    box-shadow: -5px 10px 1px  black;
+    transform: translate(10px, -10px);
 }
 
 .kids-2{
@@ -346,6 +660,12 @@ body{
     transform: scale(1.10);
 }
 
+.cover-button-kids-2{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
 .button-kids-2 button{
     color: #215732;
     background-color: #6EA07C;
@@ -355,7 +675,45 @@ body{
     font-family: 'Montserrat', sans-serif;
     font-family: 'Mukta', sans-serif;
     font-family: 'Playfair Display', serif;
-    box-shadow: 4px 4px 5px black;
+    border-radius: 30px;
+    border-color: #215732;
+    margin-top: 30px;
+    border-color: #215732;
+    margin-top: 30px;
+    box-shadow: 1px 4px 30px #215732;
+    transition: transform 350ms;
+    border-bottom: #215732;
+    border-color: #215732;
+    border-right: #215732;
+}
+
+.button-kids-2 button:hover {
+    box-shadow: -5px 10px 1px  black;
+    transform: translate(10px, -10px);
+}
+
+.favorito-kids-2 button{
+    border-radius: 30px;
+    color: #215732;
+    background-color: #6EA07C;
+    width: 50px;
+    height: 30px;
+    font-family: 'Martian Mono', monospace;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Playfair Display', serif;
+    border-color: #215732;
+    margin-top: 30px;
+    box-shadow: 1px 4px 30px #215732;
+    transition: transform 350ms;
+    border-bottom: #215732;
+    border-color: #215732;
+    border-right: #215732;
+}
+
+.favorito-kids-2 button:hover {
+    box-shadow: -5px 10px 1px  black;
+    transform: translate(10px, -10px);
 }
 
 .kids-3{
@@ -379,6 +737,12 @@ body{
     transform: scale(1.10);
 }
 
+.cover-button-kids-3{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
 .button-kids-3 button{
     color: #215732;
     background-color: #6EA07C;
@@ -388,7 +752,45 @@ body{
     font-family: 'Montserrat', sans-serif;
     font-family: 'Mukta', sans-serif;
     font-family: 'Playfair Display', serif;
-    box-shadow: 4px 4px 5px black;
+    border-radius: 30px;
+    border-color: #215732;
+    margin-top: 30px;
+    border-color: #215732;
+    margin-top: 30px;
+    box-shadow: 1px 4px 30px #215732;
+    transition: transform 350ms;
+    border-bottom: #215732;
+    border-color: #215732;
+    border-right: #215732;
+}
+
+.button-kids-3 button:hover {
+    box-shadow: -5px 10px 1px  black;
+    transform: translate(10px, -10px);
+}
+
+.favorito-kids-3 button{
+    border-radius: 30px;
+    color: #215732;
+    background-color: #6EA07C;
+    width: 50px;
+    height: 30px;
+    font-family: 'Martian Mono', monospace;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Playfair Display', serif;
+    border-color: #215732;
+    margin-top: 30px;
+    box-shadow: 1px 4px 30px #215732;
+    transition: transform 350ms;
+    border-bottom: #215732;
+    border-color: #215732;
+    border-right: #215732;
+}
+
+.favorito-kids-3 button:hover {
+    box-shadow: -5px 10px 1px  black;
+    transform: translate(10px, -10px);
 }
 
 .kids-4{
@@ -412,6 +814,12 @@ body{
     transform: scale(1.10);
 }
 
+.cover-button-kids-4{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
 .button-kids-4 button{
     color: #215732;
     background-color: #6EA07C;
@@ -421,7 +829,45 @@ body{
     font-family: 'Montserrat', sans-serif;
     font-family: 'Mukta', sans-serif;
     font-family: 'Playfair Display', serif;
-    box-shadow: 4px 4px 5px black;
+    border-radius: 30px;
+    border-color: #215732;
+    margin-top: 30px;
+    border-color: #215732;
+    margin-top: 30px;
+    box-shadow: 1px 4px 30px #215732;
+    transition: transform 350ms;
+    border-bottom: #215732;
+    border-color: #215732;
+    border-right: #215732;
+}
+
+.button-kids-4 button:hover {
+    box-shadow: -5px 10px 1px  black;
+    transform: translate(10px, -10px);
+}
+
+.favorito-kids-4 button{
+    border-radius: 30px;
+    color: #215732;
+    background-color: #6EA07C;
+    width: 50px;
+    height: 30px;
+    font-family: 'Martian Mono', monospace;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Playfair Display', serif;
+    border-color: #215732;
+    margin-top: 30px;
+    box-shadow: 1px 4px 30px #215732;
+    transition: transform 350ms;
+    border-bottom: #215732;
+    border-color: #215732;
+    border-right: #215732;
+}
+
+.favorito-kids-4 button:hover {
+    box-shadow: -5px 10px 1px  black;
+    transform: translate(10px, -10px);
 }
 
 .kids-5{
@@ -445,6 +891,12 @@ body{
     transform: scale(1.10);
 }
 
+.cover-button-kids-5{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
 .button-kids-5 button{
     color: #215732;
     background-color: #6EA07C;
@@ -454,7 +906,45 @@ body{
     font-family: 'Montserrat', sans-serif;
     font-family: 'Mukta', sans-serif;
     font-family: 'Playfair Display', serif;
-    box-shadow: 4px 4px 5px black;
+    border-radius: 30px;
+    border-color: #215732;
+    margin-top: 30px;
+    border-color: #215732;
+    margin-top: 30px;
+    box-shadow: 1px 4px 30px #215732;
+    transition: transform 350ms;
+    border-bottom: #215732;
+    border-color: #215732;
+    border-right: #215732;
+}
+
+.button-kids-5 button:hover {
+    box-shadow: -5px 10px 1px  black;
+    transform: translate(10px, -10px);
+}
+
+.favorito-kids-5 button{
+    border-radius: 30px;
+    color: #215732;
+    background-color: #6EA07C;
+    width: 50px;
+    height: 30px;
+    font-family: 'Martian Mono', monospace;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Playfair Display', serif;
+    border-color: #215732;
+    margin-top: 30px;
+    box-shadow: 1px 4px 30px #215732;
+    transition: transform 350ms;
+    border-bottom: #215732;
+    border-color: #215732;
+    border-right: #215732;
+}
+
+.favorito-kids-5 button:hover {
+    box-shadow: -5px 10px 1px  black;
+    transform: translate(10px, -10px);
 }
 
 .kids-6{
@@ -478,6 +968,12 @@ body{
     transform: scale(1.10);
 }
 
+.cover-button-kids-6{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
 .button-kids-6 button{
     color: #215732;
     background-color: #6EA07C;
@@ -487,7 +983,45 @@ body{
     font-family: 'Montserrat', sans-serif;
     font-family: 'Mukta', sans-serif;
     font-family: 'Playfair Display', serif;
-    box-shadow: 4px 4px 5px black;
+    border-radius: 30px;
+    border-color: #215732;
+    margin-top: 30px;
+    border-color: #215732;
+    margin-top: 30px;
+    box-shadow: 1px 4px 30px #215732;
+    transition: transform 350ms;
+    border-bottom: #215732;
+    border-color: #215732;
+    border-right: #215732;
+}
+
+.button-kids-6 button:hover {
+    box-shadow: -5px 10px 1px  black;
+    transform: translate(10px, -10px);
+}
+
+.favorito-kids-6 button{
+    border-radius: 30px;
+    color: #215732;
+    background-color: #6EA07C;
+    width: 50px;
+    height: 30px;
+    font-family: 'Martian Mono', monospace;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Playfair Display', serif;
+    border-color: #215732;
+    margin-top: 30px;
+    box-shadow: 1px 4px 30px #215732;
+    transition: transform 350ms;
+    border-bottom: #215732;
+    border-color: #215732;
+    border-right: #215732;
+}
+
+.favorito-kids-6 button:hover {
+    box-shadow: -5px 10px 1px  black;
+    transform: translate(10px, -10px);
 }
 
 
