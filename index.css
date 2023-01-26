@@ -20,7 +20,6 @@
     padding: 10px;
 }
 
-
 .nav ul{
     color: #6EA07C;
     display: flex;
@@ -632,7 +631,7 @@
 .titulo-seccion-acuario{
     display: flex;
     justify-content: center;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
 }
 
 .img-seccion-acuario img {
@@ -675,7 +674,7 @@
     footer{
         padding: 30px;
         background-color: #215732;
-        height: 200px;
+        height: 250px;
     }
     
     footer a:visited {
@@ -727,7 +726,7 @@
         }
     
         footer{
-            height: 320px;
+            height: 350px;
         }
 
         .cover-footer img {
