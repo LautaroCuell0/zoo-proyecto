@@ -92,7 +92,7 @@ body{
 }
 
 .button-remera-1 button{
-    color: #215732;
+    color: white;
     background-color: #6EA07C;
     width: 120px;
     height: 30px;
@@ -113,13 +113,13 @@ body{
 }
 
 .button-remera-1 button:hover {
-    box-shadow: -5px 10px 1px  black;
+    box-shadow: -5px 10px 1px  white;
     transform: translate(10px, -10px);
 }
 
 .favorito-remera-1 button{
     border-radius: 30px;
-    color: #215732;
+    color: white;
     background-color: #6EA07C;
     width: 50px;
     height: 30px;
@@ -137,7 +137,7 @@ body{
 }
 
 .favorito-remera-1 button:hover {
-    box-shadow: -5px 10px 1px  black;
+    box-shadow: -5px 10px 1px  white;
     transform: translate(10px, -10px);
 }
 
@@ -175,7 +175,7 @@ body{
 }
 .button-remera-2 button{
     border-radius: 30px;
-    color: #215732;
+    color: white;
     background-color: #6EA07C;
     width: 120px;
     height: 30px;
@@ -194,7 +194,7 @@ body{
 }
 
 .button-remera-2 button:hover {
-    box-shadow: -5px 10px 1px  black;
+    box-shadow: -5px 10px 1px  white;
     transform: translate(10px, -10px);
 }
 
@@ -218,7 +218,7 @@ body{
 }
 
 .favorito-remera-2 button:hover {
-    box-shadow: -5px 10px 1px  black;
+    box-shadow: -5px 10px 1px  white;
     transform: translate(10px, -10px);
 }
 
@@ -250,7 +250,7 @@ body{
 }
 
 .button-remera-3 button{
-    color: #215732;
+    color: white;
     background-color: #6EA07C;
     width: 120px;
     height: 30px;
@@ -271,13 +271,13 @@ body{
 }
 
 .button-remera-3 button:hover {
-    box-shadow: -5px 10px 1px  black;
+    box-shadow: -5px 10px 1px  white;
     transform: translate(10px, -10px);
 }
 
 .favorito-remera-3 button{
     border-radius: 30px;
-    color: #215732;
+    color: white;
     background-color: #6EA07C;
     width: 50px;
     height: 30px;
@@ -295,7 +295,7 @@ body{
 }
 
 .favorito-remera-3 button:hover {
-    box-shadow: -5px 10px 1px  black;
+    box-shadow: -5px 10px 1px  white;
     transform: translate(10px, -10px);
 }
 
@@ -327,7 +327,7 @@ body{
 }
 
 .button-remera-4 button{
-    color: #215732;
+    color: white;
     background-color: #6EA07C;
     width: 120px;
     height: 30px;
@@ -348,13 +348,13 @@ body{
 }
 
 .button-remera-4 button:hover {
-    box-shadow: -5px 10px 1px  black;
+    box-shadow: -5px 10px 1px  white;
     transform: translate(10px, -10px);
 }
 
 .favorito-remera-4 button{
     border-radius: 30px;
-    color: #215732;
+    color: white;
     background-color: #6EA07C;
     width: 50px;
     height: 30px;
@@ -372,7 +372,7 @@ body{
 }
 
 .favorito-remera-4 button:hover {
-    box-shadow: -5px 10px 1px  black;
+    box-shadow: -5px 10px 1px white;
     transform: translate(10px, -10px);
 }
 
@@ -404,7 +404,7 @@ body{
 }
 
 .button-remera-5 button{
-    color: #215732;
+    color: white;
     background-color: #6EA07C;
     width: 120px;
     height: 30px;
@@ -425,13 +425,13 @@ body{
 }
 
 .button-remera-5 button:hover {
-    box-shadow: -5px 10px 1px  black;
+    box-shadow: -5px 10px 1px  white;
     transform: translate(10px, -10px);
 }
 
 .favorito-remera-5 button{
     border-radius: 30px;
-    color: #215732;
+    color: white;
     background-color: #6EA07C;
     width: 50px;
     height: 30px;
@@ -449,7 +449,7 @@ body{
 }
 
 .favorito-remera-5 button:hover {
-    box-shadow: -5px 10px 1px  black;
+    box-shadow: -5px 10px 1px  white;
     transform: translate(10px, -10px);
 }
 
@@ -481,7 +481,7 @@ body{
 }
 
 .button-remera-6 button{
-    color: #215732;
+    color: white;
     background-color: #6EA07C;
     width: 120px;
     height: 30px;
@@ -502,13 +502,13 @@ body{
 }
 
 .button-remera-6 button:hover {
-    box-shadow: -5px 10px 1px  black;
+    box-shadow: -5px 10px 1px  white;
     transform: translate(10px, -10px);
 }
 
 .favorito-remera-6 button{
     border-radius: 30px;
-    color: #215732;
+    color: white;
     background-color: #6EA07C;
     width: 50px;
     height: 30px;
@@ -526,7 +526,7 @@ body{
 }
 
 .favorito-remera-6 button:hover {
-    box-shadow: -5px 10px 1px  black;
+    box-shadow: -5px 10px 1px white;
     transform: translate(10px, -10px);
 }
 
@@ -590,7 +590,7 @@ body{
 }
 
 .button-kids-1 button{
-    color: #215732;
+    color: white;
     background-color: #6EA07C;
     width: 120px;
     height: 30px;
@@ -611,13 +611,13 @@ body{
 }
 
 .button-kids-1 button:hover {
-    box-shadow: -5px 10px 1px  black;
+    box-shadow: -5px 10px 1px  white;
     transform: translate(10px, -10px);
 }
 
 .favorito-kids-1 button{
     border-radius: 30px;
-    color: #215732;
+    color: white;
     background-color: #6EA07C;
     width: 50px;
     height: 30px;
@@ -635,7 +635,7 @@ body{
 }
 
 .favorito-kids-1 button:hover {
-    box-shadow: -5px 10px 1px  black;
+    box-shadow: -5px 10px 1px  white;
     transform: translate(10px, -10px);
 }
 
@@ -667,7 +667,7 @@ body{
 }
 
 .button-kids-2 button{
-    color: #215732;
+    color: white;
     background-color: #6EA07C;
     width: 120px;
     height: 30px;
@@ -688,13 +688,13 @@ body{
 }
 
 .button-kids-2 button:hover {
-    box-shadow: -5px 10px 1px  black;
+    box-shadow: -5px 10px 1px  white;
     transform: translate(10px, -10px);
 }
 
 .favorito-kids-2 button{
     border-radius: 30px;
-    color: #215732;
+    color: white;
     background-color: #6EA07C;
     width: 50px;
     height: 30px;
@@ -712,7 +712,7 @@ body{
 }
 
 .favorito-kids-2 button:hover {
-    box-shadow: -5px 10px 1px  black;
+    box-shadow: -5px 10px 1px  white;
     transform: translate(10px, -10px);
 }
 
@@ -744,7 +744,7 @@ body{
 }
 
 .button-kids-3 button{
-    color: #215732;
+    color: white;
     background-color: #6EA07C;
     width: 120px;
     height: 30px;
@@ -765,13 +765,13 @@ body{
 }
 
 .button-kids-3 button:hover {
-    box-shadow: -5px 10px 1px  black;
+    box-shadow: -5px 10px 1px  white;
     transform: translate(10px, -10px);
 }
 
 .favorito-kids-3 button{
     border-radius: 30px;
-    color: #215732;
+    color: white;
     background-color: #6EA07C;
     width: 50px;
     height: 30px;
@@ -789,7 +789,7 @@ body{
 }
 
 .favorito-kids-3 button:hover {
-    box-shadow: -5px 10px 1px  black;
+    box-shadow: -5px 10px 1px  white;
     transform: translate(10px, -10px);
 }
 
@@ -821,7 +821,7 @@ body{
 }
 
 .button-kids-4 button{
-    color: #215732;
+    color: white;
     background-color: #6EA07C;
     width: 120px;
     height: 30px;
@@ -842,13 +842,13 @@ body{
 }
 
 .button-kids-4 button:hover {
-    box-shadow: -5px 10px 1px  black;
+    box-shadow: -5px 10px 1px  white;
     transform: translate(10px, -10px);
 }
 
 .favorito-kids-4 button{
     border-radius: 30px;
-    color: #215732;
+    color: white;
     background-color: #6EA07C;
     width: 50px;
     height: 30px;
@@ -866,7 +866,7 @@ body{
 }
 
 .favorito-kids-4 button:hover {
-    box-shadow: -5px 10px 1px  black;
+    box-shadow: -5px 10px 1px  white;
     transform: translate(10px, -10px);
 }
 
@@ -898,7 +898,7 @@ body{
 }
 
 .button-kids-5 button{
-    color: #215732;
+    color: white;
     background-color: #6EA07C;
     width: 120px;
     height: 30px;
@@ -919,13 +919,13 @@ body{
 }
 
 .button-kids-5 button:hover {
-    box-shadow: -5px 10px 1px  black;
+    box-shadow: -5px 10px 1px  white;
     transform: translate(10px, -10px);
 }
 
 .favorito-kids-5 button{
     border-radius: 30px;
-    color: #215732;
+    color: white;
     background-color: #6EA07C;
     width: 50px;
     height: 30px;
@@ -943,7 +943,7 @@ body{
 }
 
 .favorito-kids-5 button:hover {
-    box-shadow: -5px 10px 1px  black;
+    box-shadow: -5px 10px 1px  white;
     transform: translate(10px, -10px);
 }
 
@@ -975,7 +975,7 @@ body{
 }
 
 .button-kids-6 button{
-    color: #215732;
+    color: white;
     background-color: #6EA07C;
     width: 120px;
     height: 30px;
@@ -996,13 +996,13 @@ body{
 }
 
 .button-kids-6 button:hover {
-    box-shadow: -5px 10px 1px  black;
+    box-shadow: -5px 10px 1px  white;
     transform: translate(10px, -10px);
 }
 
 .favorito-kids-6 button{
     border-radius: 30px;
-    color: #215732;
+    color: white;
     background-color: #6EA07C;
     width: 50px;
     height: 30px;
@@ -1020,7 +1020,7 @@ body{
 }
 
 .favorito-kids-6 button:hover {
-    box-shadow: -5px 10px 1px  black;
+    box-shadow: -5px 10px 1px  white;
     transform: translate(10px, -10px);
 }
 
