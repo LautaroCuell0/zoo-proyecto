@@ -231,8 +231,25 @@
 /* ----- */
 
 
-.form{
+.formulario{
     background-color: #6EA07C;
+    display: flex;
+    justify-content: center;
+}
+
+.cover-formulario{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 500px;
+    border-radius: 60px;
+    background-color: #215732;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    
 }
 
 .h1-formulario{
@@ -246,58 +263,85 @@
     font-family: 'Montserrat', sans-serif;
     font-family: 'Mukta', sans-serif;
     font-family: 'Playfair Display', serif;
-    color: #215732;
+    color: #6EA07C;
 }
 
-.formulario{
+.cover-gmail{
     display: flex;
-    justify-content: center;
-    border-radius: 30px;
-}
-
-.formulario label{
+    flex-direction: row;
+    gap: 20px;
+    align-items: center; 
     font-family: 'Martian Mono', monospace;
     font-family: 'Montserrat', sans-serif;
     font-family: 'Mukta', sans-serif;
     font-family: 'Playfair Display', serif;
-    color: #215732;
+    color: #6EA07C;
+    margin-bottom: 30px;
+    
 }
 
-.formulario input{
-    width: 250px;
+.cover-gmail input {
     border-radius: 30px;
-    height: 25px;
-}
-
-.formulario textarea{
-    border-radius: 30px;
-}
-
-.formulario button{
-    width: 100px;
     height: 30px;
+    border-color: #6EA07C;
+    border-color: #215732;
+    border-bottom: #215732;
+    border-color: #215732;
+    border-right: #215732;
 }
 
-.label-input-1{
+
+
+.cover-mensaje{
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    margin-bottom: 20px;
+    gap: 20px;
+    align-items: center; 
+    font-family: 'Martian Mono', monospace;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Playfair Display', serif;
+    color: #6EA07C;
 }
 
-.label-input-2{
+.cover-mensaje textarea {
+    border-radius: 10px;
+    width: 300px;
+    height: 80px;
+    border-color: #6EA07C;
+    resize: none;
+    font-family: 'Martian Mono', monospace;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Playfair Display', serif;
+}
+
+.cover-boton-enviar{
     display: flex;
-    flex-direction: column;
     justify-content: center;
-    margin-bottom: 20px;
+    align-items: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 
-.button-formulario {
- display: flex;
- justify-content: center;
- margin-bottom: 30px;
+
+.cover-boton-enviar button{
+    border-radius: 30px;
+    width: 130px;
+    height: 40px;
+    background-color: #6EA07C;
+    color: #215732;
+    border-color: #215732;
+    border-bottom: #215732;
+    border-color: #215732;
+    border-right: #215732;  
+    transition: transform 350ms;
 }
 
+.cover-boton-enviar button:hover {
+    box-shadow: -5px 10px 1px  black;
+    transform: translate(10px, -10px);
+}
 
 /* --------- */
 
@@ -372,3 +416,19 @@
     }
 
  }
+
+
+ @media screen and (max-width: 565px) {
+    .cover-formulario{
+        width: 400px;
+    }
+
+}
+
+
+@media screen and (max-width: 445px) {
+    .cover-formulario{
+        width: 350px;
+    }
+
+}
