@@ -26,7 +26,10 @@
     <link
         href="https://fonts.googleapis.com/css2?family=Martian+Mono:wght@200&family=Montserrat:ital,wght@0,200;1,300;1,400&family=Mukta:wght@300&family=Playfair+Display&display=swap"
         rel="stylesheet">
+    
 
+    
+        <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
 </head>
 
 <body>
@@ -63,7 +66,7 @@
             </div>
          </div>
 
-         <div class="presentacion-img"><img src="./img/tiburones nadando.gif" alt=""></div>
+         <div class="presentacion-img"><img src="./img/tiburones nadando.gif" alt="" data-aos="fade-up"></div>
 
         </div>
 
@@ -126,7 +129,7 @@
     <section class="tickets">
         <div class="banner-tickets">
             <h2>Saca tu tickets</h2>
-            <button class="button-tickets">Consigue tus tickets acá</button>
+            <a href="./error404.html" style="text-decoration: none;"><button class="button-tickets">Consigue tus tickets acá</button></a>
         </div>
 
         <div class="cover-pases">
@@ -235,6 +238,10 @@
             </div>
         </footer>
     </section>
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script>
+        AOS.init();
+      </script>
 </body>
 
 </html>

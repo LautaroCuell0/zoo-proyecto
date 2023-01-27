@@ -15,13 +15,15 @@
     border-radius: 100%;
     margin-bottom: 30px;
 }
+
+
 .inicio{
     background-color: #6EA07C;
     padding: 10px;
 }
 
 .nav ul{
-    color: #6EA07C;
+    color: white;
     display: flex;
     flex-direction: row;
     gap: 30px;
@@ -36,15 +38,19 @@
 .li-1{
     background-color: #215732;
     border-radius: 30px;
-    width: 80px;
+    width: 100px;
     height: 30px;
     align-items: center;
     display: flex;
     justify-content: center;
 }
 
+.li-1:hover{
+    box-shadow: 4px 4px 30px;
+}
+
 .navbar a:visited {
-    color: #6EA07C;
+    color: white;
   }
 
 
@@ -52,21 +58,29 @@
 .li-2{
     background-color: #215732;
     border-radius: 30px;
-    width: 80px;
+    width: 100px;
     height: 30px;
     align-items: center;
     display: flex;
     justify-content: center;
 }
 
+.li-2:hover{
+    box-shadow: 4px 4px 30px;
+}
+
 .li-3{
     background-color: #215732;
     border-radius: 30px;
-    width: 80px;
+    width: 100px;
     height: 30px;
     align-items: center;
     display: flex;
     justify-content: center;
+}
+
+.li-3:hover{
+    box-shadow: 4px 4px 30px;
 }
 
 .presentacion{
@@ -128,6 +142,7 @@
 .presentacion-img img{
     border-radius: 60px;
 }
+
 
 /* ------- */
 .cover-animales{
