@@ -121,7 +121,7 @@
 }
 
 .button-presentacion button:hover{
-    box-shadow: -5px 10px 1px  black;
+    box-shadow: -5px 10px 1px  white;
     transform: translate(10px, -10px);
 } 
 
@@ -190,7 +190,7 @@
 
 
  .button-ave button:hover {
-    box-shadow: -5px 10px 1px  black;
+    box-shadow: -5px 10px 1px  white;
     transform: translate(10px, -10px);
 }
 .button-ave {
@@ -247,7 +247,7 @@
 }
 
 .button-felinos button:hover {
-    box-shadow: -5px 10px 1px  black;
+    box-shadow: -5px 10px 1px  white;
     transform: translate(10px, -10px);
 }
 
@@ -305,7 +305,7 @@
 }
 
 .button-peces button:hover {
-    box-shadow: -5px 10px 1px  black;
+    box-shadow: -5px 10px 1px  white;
     transform: translate(10px, -10px);
 }
 
@@ -354,7 +354,7 @@
 }
 
 .button-tickets:hover {
-    box-shadow: -5px 10px 1px  black;
+    box-shadow: -5px 10px 1px  white;
     transform: translate(10px, -10px);
 }
 
@@ -427,7 +427,7 @@
 }
 
 .boton-pase-1 button:hover {
-    box-shadow: -5px 10px 1px  black;
+    box-shadow: -5px 10px 1px  white;
     transform: translate(10px, -10px);
 }
 
@@ -486,7 +486,7 @@
 }
 
 .boton-pase-2 button:hover {
-    box-shadow: -5px 10px 1px  black;
+    box-shadow: -5px 10px 1px  white;
     transform: translate(10px, -10px);
 }
 

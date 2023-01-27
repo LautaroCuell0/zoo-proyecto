@@ -18,7 +18,7 @@ body{
     font-family: 'Montserrat', sans-serif;
     font-family: 'Mukta', sans-serif;
     font-family: 'Playfair Display', serif;
-    color: #6EA07C;
+    color: white;
     font-size: xx-large;
 }
 
@@ -40,13 +40,13 @@ body{
     border-color: #215732;
     border-right: #215732;
     margin-top: 20px;
-    color: #6EA07C;
+    color: white;
     box-shadow: 1px 4px 30px #215732;
     transition: transform 350ms;
 }
 
 .button-merch button:hover {
-    box-shadow: -5px 10px 1px  black;
+    box-shadow: -5px 10px 1px  white;
     transform: translate(10px, -10px);
 }
 
@@ -200,7 +200,7 @@ body{
 
 .favorito-remera-2 button{
     border-radius: 30px;
-    color: #215732;
+    color: white;
     background-color: #6EA07C;
     width: 50px;
     height: 30px;
